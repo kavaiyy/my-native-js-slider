@@ -1,0 +1,38 @@
+.demonstrationPageSection1 {
+	display: flex; 				/* Centering div with flexbox */
+	align-items: center; 		/* Centering div with flexbox horizontally */
+	justify-content: center;    /* Centering div with flexbox vertically */
+/*	flex-direction: column;  	/* For vert. centering child element section3__inner */
+/* 	justify-content: center; 	/* For vert. centering child element section3__inner */
+/* 	height: 710px;*/
+/* 	margin: auto;*/
+/*	background-color: #FFFCC9;*/
+	padding: 10px 0;
+	background: linear-gradient(-16deg,#0f4228 0%, #0f4228 25%, #02927f 50%, #0b5a34 75%, #0b5a34 100%);
+}
+.demonstrationPageSection2 {
+/*	text-align: center;*/
+/*	background-color: #FFFCC9;*/
+/*	background-color: #7bae37;*/
+/*	background-color: #92a143;*/
+	background-color: #BFBD97;
+	/*#807E65 #403F32 #E6E3B5 #B3B07B #FFFEE3*/
+}
+
+
+.section_between {
+	text-align: center;
+	background-color: #f2f9f2; /*  #f5f5f5 #7E7E7E #d3d3d3 #cccccc*/
+/*	height: 100px;*/
+/*	padding: 50px 0px 50px 0px;*/
+	padding: 60px 0px;
+}
+.between_h2 {
+	font-size: 56px;
+}
+.between_p {
+	font-size: 26px;
+}
+
+/* Good grey with green shade: #f2f9f2. https://www.schemecolor.com/20-best-gray-colors-for-ui-web-design.php */
+/* Codepen: https://codepen.io/Pavel_Korepan/pen/PoveMZp */
