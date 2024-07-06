@@ -1,1 +1,1 @@
-    In this project: domstration of native js-slider
+    In this repository: demostration page of native js-slider
